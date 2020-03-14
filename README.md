@@ -40,7 +40,7 @@ Online Book System provides students with free books in pdf format.
 [Django](https://www.djangoproject.com/download/) - as web framework <br/>
 [Sublime Text](https://www.sublimetext.com/3) - as editor <br/>
 
-# Authors
+# Author
 
  - **Deponker Sarker**  - *Initial work*- [Dipto777](https://github.com/Dipto777)
  # Contributors
