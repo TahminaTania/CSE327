@@ -29,16 +29,16 @@ Online Book System provides students with free books in pdf format.
 
 # Installing
 
-*Step-1:* Install Django from [Download](https://www.djangoproject.com/download/)
-*Step-2:* Install Sublime Text from [Download](https://www.sublimetext.com/3)
-*Step-3:* Install ATOM [Download](https://atom.io/)
-*Step-4:*  Install Sphinx [Download](http://www.sphinx-doc.org/en/master/usage/installation.html)
+*Step-1:* Install Django from [Download](https://www.djangoproject.com/download/) <br/>
+*Step-2:* Install Sublime Text from [Download](https://www.sublimetext.com/3) <br/>
+*Step-3:* Install ATOM [Download](https://atom.io/) <br/>
+*Step-4:*  Install Sphinx [Download](http://www.sphinx-doc.org/en/master/usage/installation.html) <br/>
 
 
 # Built With
 
-[Django](https://www.djangoproject.com/download/) - as web framework
-[Sublime Text](https://www.sublimetext.com/3) - as editor
+[Django](https://www.djangoproject.com/download/) - as web framework <br/>
+[Sublime Text](https://www.sublimetext.com/3) - as editor <br/>
 
 # Authors
 
